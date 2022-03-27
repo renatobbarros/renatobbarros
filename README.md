@@ -3,6 +3,7 @@
 
 - 🔭 Sou um estudante
 - 🌱  2 ano do E.M, e estudo c# e javaScript
+
 -- principais frameworks--
 - .net
 - xamarin
