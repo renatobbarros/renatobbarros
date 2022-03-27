@@ -2,7 +2,10 @@
 
 
 - 🔭 Sou um estudante
-- 🌱 1 ano do E.M, e estudo Html, css e javaScript
+- 🌱  2 ano do E.M, e estudo c# e javaScript
+-- principais frameworks--
+- .net
+- xamarin
 
 <div align="center">
   <a href="https://github.com/renatobbarros">
