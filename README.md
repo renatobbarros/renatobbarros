@@ -2,11 +2,10 @@
 
 
 - 🔭 Sou um estudante
-- 🌱  2 ano do E.M, e estudo c# e javaScript
+- 🌱  3° ano do E.M, e estudo Python e javaScript
 
 -- principais frameworks--
-- .net
-- xamarin
+- React
 
 <div align="center">
   <a href="https://github.com/renatobbarros">
