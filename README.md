@@ -1,11 +1,9 @@
 ### Ola pessoas, prazer, me chamo Renato
 
-
-- 🔭 Sou um estudante
-- 🌱  3° ano do E.M, e estudo Python e javaScript
+- 🌱  Estudo C#
 
 -- principais frameworks--
-- React
+- .NET
 
 <div align="center">
   <a href="https://github.com/renatobbarros">
