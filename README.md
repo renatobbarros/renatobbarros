@@ -1,9 +1,9 @@
 ### Ola pessoas, prazer, me chamo Renato
 
-- 🌱  Estudo C#
+- 🌱  Estudo Sistemas de informação
 
--- principais frameworks--
-- .NET
+-- Aprendendo--
+- Python
 
 <div align="center">
   <a href="https://github.com/renatobbarros">
