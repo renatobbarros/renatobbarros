@@ -11,6 +11,7 @@ const Renato = {
  challenge: "I am doing the #100Daystolearnpython"
 }
 ```
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobbarros&layout=compact&langs_count=6&theme=midnight-purple"/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
