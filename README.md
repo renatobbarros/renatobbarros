@@ -6,12 +6,11 @@
 const Renato = {
   pronouns: "he" | "him",
   studying_at: "ufrpe"
-  code: [SQL, HTML, CSS, Python],
+  code: [SQL, Python],
   tools: [MySQL, json],
- challenge: "I am doing the #100Daystolearnpython"
+ challenge: "creating my company"
 }
 ```
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobbarros&layout=compact&langs_count=6&theme=midnight-purple"/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -20,8 +19,48 @@ const Renato = {
 </p>
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div align="center">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <br><br>
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+
+  <br><br>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Badge"/>
+  
+  <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white" alt="RenPy Badge"/>
+  
+ 
+  <br>
+
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini Badge"/>
+  
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AI Studio Badge"/>
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+</div>
+</div>
+
+---
+
+### 📊 My Statistics
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatobbarros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobbarros&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <br>
+  <p><i>"Transforming ideas into code."</i> 🚀</p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=renatobbarros)](https://github.com/ryo-ma/github-profile-trophy)
