@@ -7,7 +7,7 @@ const Renato = {
   pronouns: "he" | "him",
   studying_at: "ufrpe"
   code: [SQL, Python],
-  tools: [MySQL, json],
+  tools: [MySQL, GitHub Copilot, Google AI Studio, Gemini, Google Stitch],
  challenge: "creating my company"
 }
 ```
@@ -51,9 +51,9 @@ const Renato = {
 ### 📊 My Statistics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatobbarros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobbarros&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=renatobbarros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=renatobbarros&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
